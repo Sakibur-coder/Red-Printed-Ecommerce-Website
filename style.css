@@ -83,7 +83,9 @@ p{
 .btn:hover{
     background: #4e1910;
     transition: 0.2s;
+    color: #ffffff;
 }
+
 
 .header{
     background: radial-gradient(#fff , #ffd6d6);
@@ -185,9 +187,6 @@ small{
 /************** testimonial section *************/
 .testimonial{
     margin-top: 100px;
-}
-
-.testimonial .row{
 }
 
 .testimonial .col-3{
